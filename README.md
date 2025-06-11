@@ -1,39 +1,57 @@
-<!---![Monash UAS](https://raw.githubusercontent.com/alwinw/alwinw/master/images/Monash-UAS-Banner.jpg)--->
+<!-- صورة شخصية أو شعار -->
+![Hassan Badour Banner](https://via.placeholder.com/1200x400.png?text=Hassan+Badour+%7C+Flutter+%26+C%23+Developer)
 
-![Monash UAS](https://raw.githubusercontent.com/alwinw/alwinw/master/images/Alwin.svg)
+<div align="center">
 
-<p align="center">
-    <a href="https://github.com/alwinw" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@alwinw-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/alwinrwang" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://www.researchgate.net/profile/Alwin_Wang" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
-    <a href="https://orcid.org/0000-0003-4883-2917" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/5782687/alwin" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
-    <a href="https://stackexchange.com/users/4446338/alwin" target="_blank"><img alt="Stack Exchange" src="https://img.shields.io/badge/-Stack%20Exchange-1E5297?style=flat-square&logo=Stack-Exchange&logoColor=white"></a>
-</p>
+# مرحبًا 👋، أنا حسن بدور
 
-<p align="center">
-    <a href="https://github.com/alwinw?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
-</p>
+### مطور تطبيقات متخصص في Flutter وC#
 
-<p align="center">
-    <a href="https://github.com/alwinw?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-    <a href="https://github.com/alwinw" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/alwinw/alwinw?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-    <!--<a href="https://github.com/alwinw" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a>-->
-    <a href="https://github.com/alwinw/alwinw" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/alwinw/alwinw?label=profile%20updated&style=flat-square"></a>
-</p>
+[![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter)](https://flutter.dev)
+[![C#](https://img.shields.io/badge/C%23-Professional-239120?style=for-the-badge&logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/hbadour)
 
-<details>
-<summary>Click for GitHub Stats</summary>
-<p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alwinw&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwinw&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
-</p>
-</details>
+</div>
 
+## 📌 الملف الشخصي
+
+- 🔭 أعمل حالياً على: مشاريع Flutter لتطبيقات الهاتف
+- 🌱 أتعلم حالياً: تحسين أداء تطبيقات Flutter
+- 👯 أبحث عن: تعاون في مشاريع مفتوحة المصدر
+- 💬 اسألني عن: Flutter، C#، Xamarin
+- ⚡ حقيقة ممتعة: أحب تحسين تجربة المستخدم والتصميم النظيف
+
+## 🛠 المهارات التقنية
+
+### لغات البرمجة والأطر
+![Dart](https://img.shields.io/badge/Dart-Expert-0175C2?style=flat-square&logo=dart)
+![C#](https://img.shields.io/badge/C%23-Advanced-239120?style=flat-square&logo=c-sharp)
+![Java](https://img.shields.io/badge/Java-Intermediate-007396?style=flat-square&logo=java)
+
+### تطوير الهاتف
+![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=flat-square&logo=flutter)
+![Android](https://img.shields.io/badge/Android-Intermediate-3DDC84?style=flat-square&logo=android)
+
+### تطوير سطح المكتب
+![WPF](https://img.shields.io/badge/WPF-Advanced-0078D6?style=flat-square&logo=.net)
+![WinForms](https://img.shields.io/badge/WinForms-Intermediate-0078D6?style=flat-square&logo=.net)
+
+### قواعد البيانات
+![Firebase](https://img.shields.io/badge/Firebase-Intermediate-FFCA28?style=flat-square&logo=firebase)
+![SQL](https://img.shields.io/badge/SQL_Server-Intermediate-CC2927?style=flat-square&logo=microsoft-sql-server)
+
+## 📊 إحصائيات GitHub
+
+<div align="center">
+
+![إحصائيات حسن](https://github-readme-stats.vercel.app/api?username=hbadour&show_icons=true&theme=radical)
+
+![أكثر اللغات استخداماً](https://github-readme-stats.vercel.app/api/top-langs/?username=hbadour&layout=compact&theme=radical)
+
+</div>
+
+## 📞 تواصل معي
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hbadour)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/hbadour)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail)](mailto:hassan.badour@example.com)
