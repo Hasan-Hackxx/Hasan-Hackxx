@@ -1,6 +1,7 @@
+
 <!-- Banner Image -->
 <p align="center">
- 
+  <img src="https://cdn.dribbble.com/users/1626229/screenshots/16056087/media/4db3e6401ea4b97c5605f1b279e5b9ae.png" width="500" alt="Flutter App Development">
 </p>
 
 <!-- Greeting -->
@@ -34,7 +35,8 @@
 
 <p align="center">
   <i>Thanks for visiting! Stay tuned for upcoming updates 👨‍💻</i>
-  Black Hacking🖤🖤, [6/11/2025 9:56 AM]
+</p>
+Black Hacking🖤🖤, [6/11/2025 9:56 AM]
 <!-- Banner Image -->
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1626229/screenshots/16056087/media/4db3e6401ea4b97c5605f1b279e5b9ae.png" width="500" alt="Flutter App Development">
@@ -73,4 +75,6 @@
   <i>Thanks for visiting! Stay tuned for upcoming updates 👨‍💻</i>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hasanbdour&label=PROFILE+VIEWS&style=for-the-badge&color=grey)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hasan-Hackxx&color=blue)
+
