@@ -73,6 +73,4 @@
   <i>Thanks for visiting! Stay tuned for upcoming updates 👨‍💻</i>
 </p>
 
-<p>
-![Profile Views](https://komarev.com/ghpvc/?username=Hasan-Hackxx&color=blue)
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=hasanbdour&label=PROFILE+VIEWS&style=for-the-badge&color=grey)
