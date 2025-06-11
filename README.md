@@ -1,46 +1,37 @@
-<div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true|width='60%' alt='Welcome'"/>
-# Hello 👋, I'm Hassan Badour
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/flutter/website/main/src/assets/images/shared/brand/flutter/logo/flutter-lockup.png" width="300" alt="Flutter Logo">
+</p>
 
-## Flutter Expert | C# Developer
+<!-- Greeting -->
+<h1 align="center">Welcome! 👋</h1>
 
-![App Development Showcase](https://raw.githubusercontent.com/HassanBadour/flutter-profile/main/assets/app-dev-banner.png)
+<p align="center">
+  <b>I'm Hasan Bdour</b>, a Flutter developer with experience in building remote access tools using <b>C#</b>, and a solid background in <b>Python</b>. Currently expanding my skill set and planning to showcase projects soon.
+</p>
 
-[![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
-[![Dart](https://img.shields.io/badge/Dart-Expert-0175C2?style=for-the-badge&logo=dart&logoColor=white)]()
-[![C#](https://img.shields.io/badge/C%23-Intermediate-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
+---
 
-</div>
-
-## 🔭 Current Focus
-- Building high-performance Flutter applications
-- Developing cross-platform mobile solutions
-- Improving my C# desktop development skills
-
-## 🛠 Technical Skills
-
-### Mobile Development
-- Flutter Framework (Expert)
-- Dart Programming (Expert)
-- State Management (Provider, BLoC)
-- Firebase Integration (Auth, Firestore)
-- UI/UX Design Principles
-
-### Desktop Development
-- C# (Intermediate)
-- WPF/WinForms (Intermediate)
-- .NET Core Fundamentals
-- SQL Database Integration
-
-## � Recent Projects
-- [Flutter E-commerce App] - (Description)
-- [Inventory Management System] - (C# Desktop App)
-- [Task Management Mobile App] - (Flutter)
+### 🛠️ Skills
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hbadour&show_icons=true&theme=light&hide_border=true)
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hbadour&layout=compact&theme=light&hide_border=true)
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 
 </div>
+
+---
+
+### 📌 Notes
+
+- 🚧 Projects are under development and will be added soon.
+- 🕶️ Dark-themed design for a cleaner and modern look.
+- 🤝 Open to remote opportunities and building professional solutions.
+
+---
+
+<p align="center">
+  <i>Thanks for visiting! Stay tuned for upcoming updates 👨‍💻</i>
+</p>
