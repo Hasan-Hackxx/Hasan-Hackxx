@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/flutter/website/main/src/assets/images/shared/brand/flutter/logo/flutter-lockup.png" width="300" alt="Flutter Logo">
+  <img src="https://cdn.dribbble.com/users/1626229/screenshots/16056087/media/4db3e6401ea4b97c5605f1b279e5b9ae.png" width="500" alt="Flutter App Development">
 </p>
 
 <!-- Greeting -->
